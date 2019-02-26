@@ -1,2 +1,4 @@
-[0m[[0m[0minfo[0m] [0m[0m/home/wdd/Desktop/Lab8AndForwardSDevPlay/app/models/products/Category.java: /home/wdd/Desktop/Lab8AndForwardSDevPlay/app/models/products/Category.java uses unchecked or unsafe operations.[0m
-[0m[[0m[0minfo[0m] [0m[0m/home/wdd/Desktop/Lab8AndForwardSDevPlay/app/models/products/Category.java: Recompile with -Xlint:unchecked for details.[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/Desktop/Lab8AndForwardSDevPlay/app/views/onsale.scala.html:43:25: not found: value env[0m
+[0m[[0m[31merror[0m] [0m[0m                    @if(env.resource("public/images/productImages/" + i.getId + "thumb.jpg").isDefined) {[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

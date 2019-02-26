@@ -4,7 +4,7 @@
 		module="lab-7-many-to-many_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20190226113531"
+		publication="20190226151131"
 	>
 		<description>
 		lab 7 Many To Many
@@ -55,6 +55,7 @@
 		<dependency org="com.typesafe.play" name="play-logback_2.12" rev="2.6.21" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-akka-http-server_2.12" rev="2.6.21" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-guice_2.12" rev="2.6.21" conf="compile->default(compile)"/>
+		<dependency org="org.imgscalr" name="imgscalr-lib" rev="4.2" conf="compile->default(compile)"/>
 		<dependency org="com.h2database" name="h2" rev="1.4.197" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-jdbc-evolutions_2.12" rev="2.6.21" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-jdbc_2.12" rev="2.6.21" conf="compile->default(compile)"/>
